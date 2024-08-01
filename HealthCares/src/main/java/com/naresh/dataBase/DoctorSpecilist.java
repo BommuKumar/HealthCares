@@ -1,5 +1,5 @@
 package com.naresh.dataBase;
 
-public class Doctor {
+public class DoctorSpecilist {
 
 }
